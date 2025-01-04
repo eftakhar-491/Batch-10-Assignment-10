@@ -1,0 +1,27 @@
+.swiper-button-next,
+.swiper-button-prev {
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  background-size: 16px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.swiper-button-prev {
+  color: black;
+
+  background-image: url("/left.svg");
+}
+.swiper-button-next {
+  color: black;
+
+  background-image: url("/right.svg");
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  content: "";
+}
