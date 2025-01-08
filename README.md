@@ -7,6 +7,15 @@
 
 VisaEase is a comprehensive solution designed to simplify visa processing for individuals and businesses. Whether you need to add, manage, or delete visa applications, our platform ensures a smooth and user-friendly experience.
 
+## Tecnology 
+
+- **ReactJs**
+- **NodeJs**
+- **ExpressJs**
+- **MongoDB**
+- **React-Router-Dom**
+
+
 ## Features
 
 - **Add Visa Applications**: Easily add new visa applications with a streamlined and intuitive form interface.
