@@ -50,6 +50,12 @@ VisaEase is a comprehensive solution designed to simplify visa processing for in
 4. Use the "View Visas" page to check the status or details of existing applications.
 5. Remove applications easily via the "Delete Visa" page.
 
+### Install Local Machine
+
+- **git clone https://github.com/eftakhar-491/Batch-10-Assignment-10.git** - 
+- **npm i**
+- **npm run dev**
+
 
 ## Backend
 
@@ -88,7 +94,10 @@ This is the backend API for the VisaEase platform, providing robust functionalit
 
 ### Install Local Machine
 
-- **git clone https://github.com/eftakhar-491/Batch-10-Assignment-10.git** - 
+- **git clone https://github.com/eftakhar-491/Batch-10-Assignment-10.git**
+- cd ./(filename)
 - **npm i**
+- create .env and make sure all criteria ar full field
+- nodemon index.js
 - **npm run dev** 
 
