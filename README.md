@@ -31,6 +31,17 @@ VisaEase is a comprehensive solution designed to simplify visa processing for in
 3. **View Visas Page**: A dashboard to browse and manage submitted applications.
 4. **Delete Visa Page**: A secure section for removing unnecessary visa records.
 
+## NPM Packages Used
+
+- `@tanstack/react-query`: ^5.62.8
+- `axios`: ^1.7.9
+- `lottie-react`: ^2.4.0
+- `react`: ^18.3.1
+- `react-helmet-async`: ^2.0.5
+- `react-router-dom`: ^7.1.0
+- `swiper`: ^11.1.15
+
+
 ## How to Use
 
 1. Visit the [Live Site](https://b-10-assignment-10.web.app/).
