@@ -1,6 +1,8 @@
 ## FrontEnd_
 # Visa Palace - Your Trusted Visa Processing Partner
 
+<img src="./p4.jpg"/>
+
 [Live Site URL](https://b-10-assignment-10.web.app/)
 
 VisaEase is a comprehensive solution designed to simplify visa processing for individuals and businesses. Whether you need to add, manage, or delete visa applications, our platform ensures a smooth and user-friendly experience.
