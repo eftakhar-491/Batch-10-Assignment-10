@@ -75,10 +75,9 @@ This is the backend API for the VisaEase platform, providing robust functionalit
 - **PUT /api/applications/:id** - Update an existing visa application.
 - **DELETE /api/applications/:id** - Delete a visa application.
 
-### Install Local Mashine
+### Install Local Machine
 
-- **GET /api/applications/email** - 
-- **GET /api/applications/:id**
-- **POST /api/applications** 
-- **PUT /api/applications/:id**
-- **DELETE /api/applications/:id** 
+- **git clone https://github.com/eftakhar-491/Batch-10-Assignment-10.git** - 
+- **npm i**
+- **npm run dev** 
+
