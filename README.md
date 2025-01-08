@@ -1,7 +1,7 @@
 ## FrontEnd_
 # Visa Palace - Your Trusted Visa Processing Partner
 
-<img src="./p4.jpg"/>
+<img src="./p4.JPG"/>
 
 [Live Site URL](https://b-10-assignment-10.web.app/)
 
